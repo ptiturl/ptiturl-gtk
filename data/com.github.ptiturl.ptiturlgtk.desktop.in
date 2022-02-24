@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=ptiturl-gtk
+Exec=ptiturl-gtk
+Icon=com.github.ptiturl.ptiturlgtk
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true

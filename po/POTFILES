@@ -1,0 +1,7 @@
+data/com.github.ptiturl.ptiturlgtk.desktop.in
+data/com.github.ptiturl.ptiturlgtk.appdata.xml.in
+data/com.github.ptiturl.ptiturlgtk.gschema.xml
+src/window.ui
+src/main.py
+src/window.py
+

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="ptiturl-gtk">
+	<schema id="com.github.ptiturl.ptiturlgtk" path="/com/github/ptiturl/ptiturlgtk/">
+	</schema>
+</schemalist>
